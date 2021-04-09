@@ -1,3 +1,6 @@
 type: noatcards
 contents:
   - file: TIL/2021-04-09/the-simple-magic-of-consistent-hashing.md
+  - file: TIL/2021-04-09/introduction-to-architecting-systems-for-scale..md
+  - file: TIL/2021-04-09/scalable-system-design-patterns.md
+  - file: TIL/2021-04-09/the-simple-magic-of-consistent-hashing.md
